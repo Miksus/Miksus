@@ -19,14 +19,15 @@ programming + finance + data
 - Data analysis (Seaborn, Matplotlib, Pandas)
 - Data engineering (T-SQL, PL/SQL, MongoDB)
 - Data science (Sklearn, Statsmodels, NLP)
-- Web development (Flask, CSS, HTML, Javascript)
+- Web development (Flask, FastAPI, CSS, HTML, Javascript)
 - Devops (unit testing, CI, Git, packaging)
 
 ### My projects
 
 | Project                                                                                                                                                                                     | Description                                         | Technologies                |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------- | --------------------------- |
-| [![RedEngine](https://img.shields.io/badge/Red%20Engine-A40606?style=for-the-badge&logo=python&logoColor=white&color=darkred)](https://github.com/Miksus/red-engine)                        | Production grade scheduling framework               | Python                      |
+| [![Rocketry](https://img.shields.io/badge/Rocketry-A40606?style=for-the-badge&logo=python&logoColor=blue&color=white)](https://github.com/Miksus/red-engine)                                | Insanely powerful scheduling framework              | Python                      |
+| [![Red Mail](https://img.shields.io/badge/Red%20Mail-A40606?style=for-the-badge&logo=python&logoColor=white&color=darkred)](https://github.com/Miksus/red-engine)                           | Popular email sending library for Python            | Python                      |
 | ![Synergy](https://img.shields.io/badge/Synergy-07129C?style=for-the-badge&logo=ubuntu&logoColor=white)                                                                                     | Data system for news, stocks and business info      | Python, MongoDB, Ubuntu     |
 | [![ASM](https://img.shields.io/badge/Artificial%20Stock%20Market-9558B2?style=for-the-badge&logo=julia&logoColor=white)](https://github.com/Miksus/thesis-computational-artificial-market)  | Trading simulator, thesis project                   | Julia, Python, Latex        |
 
@@ -45,20 +46,4 @@ programming + finance + data
 
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Miksus)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mikael-koli/)
-
-
-
-<!--
-**Miksus/Miksus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-0077B5?style=for-the-badge&logo=stackoverflow&color=white)](https://stackoverflow.com/users/13696660/miksus)
